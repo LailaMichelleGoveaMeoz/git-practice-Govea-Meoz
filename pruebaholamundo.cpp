@@ -3,9 +3,10 @@
 using namespace std;
 
 int main() {
-    cout << "¡Hola Mundo desde Git!" << endl;
+    cout << "Â¡Hola Mundo desde Git!" << endl;
     cout << "Mi nombre es: Laila" << endl;
-    cout << "Estoy aprendiendo Git en Programación II" << endl;
+    cout << "Estoy aprendiendo Git en ProgramaciÃ³n II" << endl;
     cout << "Este es mi segundo commit!" << endl;
+    // tengo sueno 
     return 0;
 }
